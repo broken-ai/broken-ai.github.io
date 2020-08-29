@@ -1,2 +1,2 @@
-# broken-ai.github.com
+# broken-ai.github.io
 Broken AI
